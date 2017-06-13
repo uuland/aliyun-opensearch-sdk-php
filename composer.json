@@ -1,0 +1,12 @@
+{
+  "name": "moolex/aliyun-opensearch-sdk-php",
+  "require": {
+    "packaged/thrift": "0.10.0",
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "OpenSearch\\": "src"
+    }
+  }
+}
